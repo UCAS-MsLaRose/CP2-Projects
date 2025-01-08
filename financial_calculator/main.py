@@ -1,4 +1,4 @@
-#this is the financial calculator program
+# Ms.LaRose Financial Calculator 
 
 def main():
     pass
