@@ -1,0 +1,19 @@
+       # Vienna larose, Tracing Notes
+       
+       # What is tracing?
+       # python -m trace --count C:\Users\Vienna.LaRose\Documents\CP2_Projects\Notes_2nd\tracing.py
+       
+       """
+    1: """
+       
+       # What are some ways we can debug by tracing?
+       # How do you access the debugger in VS Code?
+       # What is testing?
+       # What are boundary conditions?
+       # How do you handle when users give strange inputs?
+       
+       
+    1: def add(numone, numtwo):
+    1:     return numone+numtwo
+       
+    1: add(5,4)
